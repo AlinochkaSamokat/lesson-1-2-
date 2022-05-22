@@ -1,0 +1,42 @@
+h1{
+ color: rgb(246, 248, 255);
+ padding-left: 100px;
+ padding-left: 50%;
+}
+
+h2{
+    color: rgb(0, 68, 255);
+    padding-left: 50%;
+}
+
+h3{
+    color: rgb(255, 0, 0);
+    padding-left: 50%;
+}
+
+h4{
+    color: rgb(97, 131, 224);
+
+}
+
+h5{ 
+    color: rgb(156, 172, 247);
+
+}
+
+h6{
+    color: rgb(84, 175, 250);
+
+}
+
+p{
+    color: rgb(26, 22, 255);
+
+}
+
+body{
+    background-color: rgb(192, 187, 187)
+}
+img{
+    padding-left: 50%
+}
